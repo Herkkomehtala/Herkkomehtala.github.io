@@ -37,8 +37,8 @@ For a detailed PDF copy of my CV, please contact me at herkko.mehtala@outlook.co
 ```Assistant organizer @ Next Gen Hack FI```  
 ```06/2023 - Ongoing```  
 
-## Stuff I've done
+## Projects
 
-* [GenVulnAD](https://github.com/Herkkomehtala/Gen-vulnAD), tool to generate vulnerable Active Directory environments.  
-* [PythonEncrypt](https://github.com/Herkkomehtala/PythonEncrypt), lightweight AES256 encryption tool.  
-* [Blog](https://aa2958.github.io/blog), a dumping ground for my notes, CTFs, and other cyber related things.  
+* [GenVulnAD](https://github.com/Herkkomehtala/Gen-vulnAD), a tool to generate vulnerable Active Directory environments.  
+* [PythonEncrypt](https://github.com/Herkkomehtala/PythonEncrypt), a lightweight AES256 encryption tool.  
+* [Blog](https://aa2958.github.io/blog), a blog about IT and cyber related topics such as CTFs, malware analysis and more.
