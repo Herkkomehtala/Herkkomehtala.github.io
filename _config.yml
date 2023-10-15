@@ -1,0 +1,51 @@
+# site settings
+
+title: Herkko Mehtälä 
+description: Cyber Security Specialist interested in all things security.
+taglong: Learn. Teach. Build. Repeat.
+tagshort: Cyber Security Specialist
+url: https://cvless.netlify.app
+baseurl: ""
+permalink: pretty
+repo: https://github.com/herkkomehtala/herkkomehtala.github.io
+
+# author settings
+
+author:
+  name: Herkko Mehtälä
+  email: herkko.mehtala@outlook.com
+photo: /assets/jpg/photo.jpg
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
