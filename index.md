@@ -13,4 +13,4 @@ I have gained expertise in various roles within the cybersecurity and IT industr
 
 At Next [Gen Hack FI](https://nextgenhack.fi/), I've been at the forefront of an exciting movement to support young, aspiring individuals interested in pursuing a career in cybersecurity. Additionally, I've had the privilege of serving as a dedicated mentor, assisting students at The [Student Union of JAMK University of Applied Sciences](https://www.jamko.fi/en/) in their educational journeys. These experiences have been integral to my mission of fostering growth and nurturing talent in the ever-evolving landscape of cybersecurity and education.
 
-You can find my CV [here](cv/). I also host an IT and cyber related blog [here](https://aa2958.github.io/blog), where I write about my experiences and other things that interest me. 
+You can find my CV [here](cv/). I also host an IT and cyber related blog [here](https://aa2958.github.io/blog), where I write about my experiences and other cyber security related topics. 

@@ -41,4 +41,4 @@ For a detailed PDF copy of my CV, please contact me at herkko.mehtala@outlook.co
 
 * [GenVulnAD](https://github.com/Herkkomehtala/Gen-vulnAD), a tool to generate vulnerable Active Directory environments.  
 * [PythonEncrypt](https://github.com/Herkkomehtala/PythonEncrypt), a lightweight AES256 encryption tool.  
-* [Blog](https://aa2958.github.io/blog), a blog about IT and cyber related topics such as CTFs, malware analysis and more.
+* [My blog](https://aa2958.github.io/blog) about IT and cyber related topics such as CTFs, malware analysis and more.
